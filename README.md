@@ -1,6 +1,6 @@
 ## Technical Notes (To Be Reviewed)
 
-_@kestermvp: feel free to add your technical notes here!_
+feel free to add your technical notes here!_
 
 ## Technical Notes
 
